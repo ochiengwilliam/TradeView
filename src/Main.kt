@@ -1,0 +1,5 @@
+fun main(){
+
+    Calculations().calculations()
+
+}
